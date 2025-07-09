@@ -293,6 +293,13 @@
             border-radius:10px;
             
         }
+        .project-content a:hover{
+            color: black;
+            background-color:white;
+            padding:10px 20px;
+            text-decoration:none;
+            border-radius:10px;
+        }
 
         /* Skills Section */
         .skills {
